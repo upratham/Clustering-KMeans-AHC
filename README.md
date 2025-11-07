@@ -1,9 +1,6 @@
-# HW6 by Prathamesh Uravane UID-122016187
-
-This repository contains the notebook for **HW6 by Prathamesh Uravane UID-122016187**.
-
+# Clustering_KMeans_AHC by Prathamesh Uravane 
 ## Contents
-- `HW6_Q2.ipynb` – original notebook
+- `Clustering_KMeans_AHC` – original notebook
 - `requirements.txt` – Python dependencies
 - `README.md` – you are here
 
